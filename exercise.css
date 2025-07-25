@@ -1,0 +1,66 @@
+*{
+    margin: auto
+}
+body {
+background-color: #FFF6F0;
+color: #2D2D2D;
+font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+
+}
+
+.mother{
+background-color: white;
+height: 280px;
+width: 650px;
+padding: 20px;
+margin-bottom: 5px;
+box-shadow: 0 4px 12px rgba(255, 107, 107, 0.15);
+ text-align: center;
+ color: #2D2D2D;
+}
+.vena{
+
+    background-color: white;
+height: 280px;
+width: 650px;
+padding: 20px;
+margin-bottom: 5px;
+box-shadow: 0 4px 12px rgba(255, 107, 107, 0.15);
+ text-align: center;
+ color: #2D2D2D;
+}
+
+.vero{
+background-color: white;
+height: 10px;
+width: 650px;
+padding: 20px;
+margin-bottom: 5px;
+box-shadow: 0 4px 12px rgba(255, 107, 107, 0.15);
+ text-align: center;
+ color: #2D2D2D;
+
+
+}
+.photo{
+    height: 150px;
+    width: 150px;
+    border-radius: 50%;
+    border: white 5px solid;
+    box-shadow: 0 4px 12px rgba(255, 107, 107, 0.15);
+}
+
+.social-footer {
+  text-align: center;
+  margin-top: 20px;
+  padding: 20px;
+  background-color:  #FF6B6B;
+}
+
+.social-footer a {
+  margin: 0 15px;
+  font-size: 28px;
+  color: white;
+  transition: color 0.3s ease;
+}
+
